@@ -1,4 +1,4 @@
 # DEMO
 This is my first GIT Repository
 <br>
-Author-Tushar Singh
+Author-Tushar Singh (krish)
